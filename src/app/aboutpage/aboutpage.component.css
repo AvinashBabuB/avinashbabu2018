@@ -1,0 +1,135 @@
+body {
+	font-family: Cambria, sans-serif;
+	background-color: rgba(237, 247, 247, 0.932);
+	padding: 15px;
+	font-size: 15px;
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a {
+	text-decoration: none;
+	cursor: pointer;
+}
+
+table {
+	text-align: center;
+	border-spacing: 2px;
+	border: 3px solid black;
+}
+
+th {
+	padding: 5px;
+}
+
+td {
+	border: 1px solid black;
+	padding: 5px;
+}
+
+
+#header {
+	color: #008080;
+}
+
+
+.basic{
+	text-align: center;
+	color: #008080;
+}
+
+#avatar {
+	float: right;
+	width: 150px;
+}
+
+.avatar {
+	background-color: #95D3D3;
+	border-radius: 10px;
+	cursor: pointer;
+}
+
+
+#textMain {
+	float: left;
+	width: 800px;
+}
+
+#links {
+	clear: both;
+}
+
+#links ol {
+	list-style-type: none;
+	margin: 5px;
+	padding: 5px;
+	overflow: hidden;
+	text-align: left;
+}
+
+#links li {
+	float: left;
+}
+
+#links li a {
+	text-align: left;
+	display: flex;
+	padding: 8px;
+}
+
+#linksHeader {
+	color: #008080;
+}
+
+#tableInfo{
+	width: 600px;
+	margin: auto;
+}
+#poemDiv{
+	width: 500px;
+	margin: 50px auto;
+	padding: 20px;
+	border-radius: 10px;
+	background-image: radial-gradient(circle,rgb(224, 224, 224), #95D3D3);
+	text-align: center;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+.poem{
+	height: 500px;
+	font-style: italic;
+	overflow: scroll;
+	top: 0px;
+	border: 1px solid rgb(66, 64, 64);	
+	padding: 20px;
+	border-radius: 5px;
+}
+
+p.bold{
+	display: block;
+	font-weight: bold;
+	color:darkcyan;
+	font-style: italic;
+}
+
+.ital{
+	font-style: italic;
+}
+
+#quote{
+	background-color: #95D3D3;
+	width: 700px;
+	padding: 10px 30px;
+	margin: 10px 100px;
+	position: absolute;
+	border: 1px groove rgb(66, 64, 64);
+}
+
+.right{
+	text-align: right;
+}
+

@@ -1,0 +1,10 @@
+.welcomemsg{
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    background-color: #eee;
+    width: 800px;
+    margin: 100px auto ;
+    padding: 70px 50px;
+    border-radius: 5px;
+}

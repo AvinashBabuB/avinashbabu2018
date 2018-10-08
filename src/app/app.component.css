@@ -1,0 +1,18 @@
+nav{
+    padding: 10px;
+    text-align:center;
+}
+
+nav a {
+    padding: 5px 20px;
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+    font-size: 25px;
+    align-content: center;
+    color: #ec407a;
+  }
+
+nav a:hover {
+    font-weight:bold;
+  }
